@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://inc42.com/wp-content/uploads/2020/03/work-from-home-feature-image.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTqk0AIJePxk_qs6z3wM-xu7RHePn8dRo2xsilnX9nRYhUboggGzrg-XTC0goQ3T2n5M&usqp=CAU"/></a>
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://inc42.com/wp-content/uploads/2020/03/work-from-home-feature-image.jpg" height="175px"/></a> -->
 
