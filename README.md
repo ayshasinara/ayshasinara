@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ayshasinara@gmail.com**
 
-- 📄 To know about me [https://docs.google.com/document/d/1Oh0Gowhi389MlZ_f9lyDV4GcDcO_mKzSZmBku-UUbbY/edit](https://docs.google.com/document/d/1Oh0Gowhi389MlZ_f9lyDV4GcDcO_mKzSZmBku-UUbbY/edit)
+- 📄 To know about me [Resume](https://drive.google.com/file/d/1rs-ga_QKC27zt8mY2Ql6VgcBWyo2PfHI/view?usp=sharing)
 
 - ⚡ Fun fact **I love watching interview and learning new things from YouTube**
 
