@@ -10,9 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development course at Masai School**
 
--👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
-
--👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
+- 👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
 
 - 👯 I’m looking to work as **Web developer**
 
