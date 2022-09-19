@@ -1,40 +1,25 @@
 
-<a href="#"><img width="100%" height="auto" src="https://inc42.com/wp-content/uploads/2020/03/work-from-home-feature-image.jpg"/></a>
-
-<!-- <a href="#"><img width="100%" height="auto" src="https://inc42.com/wp-content/uploads/2020/03/work-from-home-feature-image.jpg" height="175px"/></a> -->
-
+<img align="center" alt="developer" width="100%" height="20%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h1 align="center">Hi 👋, I'm Aysha Sinara</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayshasinara" alt="ayshasinara" /></a> </p> -->
+<h4 align="center">A self-oriented aspiring full-stack web developer specialising in MERN stack. Also self-motivated and eager to learn new things, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging and growth-oriented work environment.</h4>
 
-- 🌱 I’m currently learning **Full Stack Web Development course at Masai School**
 
-- 👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
 
-- 👯 I’m looking to work as **Web developer**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashree27&label=Profile%20views&color=0e75b6&style=flat" alt="ayshasinara" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@ayshasinara](https://medium.com/@ayshasinara)
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
-- 📫 How to reach me **ayshasinara@gmail.com**
+# 💫 About Me:
+🔭 I have recently worked on [ESPN cricinfo](https://cricinfo-clone.netlify.app/)<br><br>🌱 I have recently learnt **React, Redux, React Routing**<br><br>👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)<br><br>📫 Reach me at my email **ayshasinara@gmail.com**<br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1rs-ga_QKC27zt8mY2Ql6VgcBWyo2PfHI/view?usp=sharing)
 
-- 📄 To know about me [Resume](https://drive.google.com/file/d/1rs-ga_QKC27zt8mY2Ql6VgcBWyo2PfHI/view?usp=sharing)
 
-- ⚡ Fun fact **I love watching interview and learning new things from YouTube**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayshasinara/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayshasinara)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ayshasinara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayshasinara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayshasinara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysha sinara" height="30" width="40" /></a>
-<a href="https://medium.com/@ayshasinara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aysha sinara aysha sinara" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajashree27&theme=dark&hide_border=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayshasinara&show_icons=true&locale=en&layout=compact" alt="ayshasinara" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayshasinara&show_icons=true&locale=en" alt="ayshasinara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayshasinara&" alt="ayshasinara" /></p>
 
