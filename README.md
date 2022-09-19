@@ -12,6 +12,8 @@
 
 -👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
 
+-👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)
+
 - 👯 I’m looking to work as **Web developer**
 
 - 📝 I regularly write articles on [https://medium.com/@ayshasinara](https://medium.com/@ayshasinara)
