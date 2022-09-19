@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashree27&label=Profile%20views&color=0e75b6&style=flat" alt="ayshasinara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayshasinara&label=Profile%20views&color=0e75b6&style=flat" alt="ayshasinara" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
