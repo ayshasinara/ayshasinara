@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 # 💫 About Me:
-🔭 I have recently worked on [ESPN cricinfo](https://cricinfo-clone.netlify.app/)<br><br>🌱 I have recently learnt **React, Redux, React Router, Redux-toolkit**<br><br>👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)<br><br>📫 Reach me at my email **ayshasinara@gmail.com**<br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1rs-ga_QKC27zt8mY2Ql6VgcBWyo2PfHI/view?usp=sharing)
+🔭 I have recently worked on [ESPN cricinfo](https://cricinfo-clone.netlify.app/)<br><br>🌱 I have recently learnt **React, Redux, React Router, Redux-toolkit**<br><br>👨‍💻 Have a look at my [Portfolio](https://ayshasinara-portfolio.netlify.app/)<br><br>📫 Reach me at my email **ayshasinara@gmail.com**<br><br>📄 Have a look at my [Resume](https://drive.google.com/file/d/1sbhGPF9_WX-QePOtEckoXTogx9vnvTrA/view?usp=sharing)
 
 
 ## 🌐 Socials:
